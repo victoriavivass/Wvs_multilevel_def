@@ -1,0 +1,19 @@
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (raw, too large)
+Data/WVS_Cross-National_Wave_7_csv_v6_0.csv
+Data/*.dta
+
+# Logs
+*.log
+
+Data/WVS_Cross-National_Wave_7_csv_v6_0.csv
+Data/WVS_Cross-National_Wave_7_csv_v6_0.csv
+Data/*.csv
